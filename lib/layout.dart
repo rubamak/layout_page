@@ -146,7 +146,8 @@ class Layout extends StatelessWidget {
               ),
 
               Container(
-			  //make the page responsive
+              //الطول يحتاج له تعديل
+
                 //height: constraints.maxHeight * 0.1,
                 child: Stack(
                   alignment: Alignment.bottomCenter,
